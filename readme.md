@@ -6,7 +6,7 @@
 ## About Me
 
 ![NotErista's Github Stats](https://github-readme-stats.vercel.app/api?username=NotErista&count_private=true&show_icons=true&theme=radical)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotErista&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotErista&layout=compact&theme=radical)
 
 
 ## The Languages I Know
@@ -26,8 +26,8 @@
 
 ## Pinned Repositories
 
-[![BrowseNX](https://github-readme-stats.vercel.app/api/pin/?username=crc-32&repo=BrowseNX&theme=radical)]
+![BrowseNX](https://github-readme-stats.vercel.app/api/pin/?username=crc-32&repo=BrowseNX&theme=radical)
 
-[![BrowseNX](https://github-readme-stats.vercel.app/api/pin/?username=jimzrt&repo=Incognito_RCM&theme=radical)]
+![Lockpick_RCM](https://github-readme-stats.vercel.app/api/pin/?username=jimzrt&repo=Incognito_RCM&theme=radical)
 
 ## Cya
