@@ -24,10 +24,6 @@
   </a>
 
 
-## Pinned Repositories
 
-![BrowseNX](https://github-readme-stats.vercel.app/api/pin/?username=crc-32&repo=BrowseNX&theme=radical)
-
-![Lockpick_RCM](https://github-readme-stats.vercel.app/api/pin/?username=jimzrt&repo=Incognito_RCM&theme=radical)
 
 ## Cya
