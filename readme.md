@@ -1,29 +1,23 @@
+<h1 align="center">Hi, I'm Sxut</h1>
+<h3 align="center">A Skid</h3>
 
-## Hey there 👋,
+![](https://komarev.com/ghpvc/?username=sxut)
 
+- 🔭 I’m currently working on: [Nothing]
 
+- 🌱 I’m currently learning: **JS**
 
-## About Me
+- 📫 How to reach me: **Sxut#0125 (714761737605349446)**
 
-![Dauxydev's Github Stats](https://github-readme-stats.vercel.app/api?username=Sxut&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxut&layout=compact&theme=radical)
-
-
-## The Languages I Know
-
-<p>
-  <a title="C" href="https://www.learn-c.org/">
-    <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C">
-  </a>
-  
-  <a title="C#" href="https://www.w3schools.com/cs/default.asp">
-    <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp">
-    
-  <a title="JavaScript" href="https://www.w3schools.com/js/DEFAULT.asp"/>
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-  </a>
+- ⚡ Fun fact: **I speak English**
 
 
+<h3 align="left">Connect with me ~</h3>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/714761737605349446)](https://discord.com/users/714761737605349446)
 
-## Cya
+<h3 align="left">Social Media ~</h3>
+<a href="https://discord.com/users/714761737605349446">
+  <img align="left" alt="Sxut's Discord" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+
