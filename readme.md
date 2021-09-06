@@ -5,8 +5,8 @@
 
 ## About Me
 
-![Dauxydev's Github Stats](https://github-readme-stats.vercel.app/api?username=Dauxydev&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dauxydev&layout=compact&theme=radical)
+![Dauxydev's Github Stats](https://github-readme-stats.vercel.app/api?username=Sxut&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxut&layout=compact&theme=radical)
 
 
 ## The Languages I Know
